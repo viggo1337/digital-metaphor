@@ -1,3 +1,7 @@
+<?php
+require __DIR__ . '/../app/framework.php';
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
