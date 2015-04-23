@@ -15,3 +15,4 @@ All (secure) pull requests are accepted!
 When you contribute pull requests, remember to add your name as a contributer both on the site and here in the readme.
 
 * [Martin Dilling-Hansen](https://github.com/martindilling)
+* [Mike Raunsbæk](https://github.com/raunsbaekdk))
