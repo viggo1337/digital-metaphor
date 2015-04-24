@@ -10,8 +10,10 @@ require __DIR__ . '/../app/framework.php';
 		<style>
 			body
 			{
-				background-color:#000;
+				background-color:#EEEEEEE;
 				font-family: "Comic Sans MS", "Times New Roman", Times, serif;
+                font-size: 16px;
+                background-image: url(https://scontent-ams.xx.fbcdn.net/hphotos-xta1/v/t1.0-9/11038244_10206215757816550_2136774177627074862_n.jpg?oh=c607a464b8c863e9dd5bb3f89e9479d1&oe=55CE8DFF);
 			}
 		</style>
 	</head>
